@@ -73,7 +73,6 @@ nav .logo{
         justify-content: center;
         align-items: center;
         background-color: #000;
-        opacity: 0.9;
         transition: top 1s ease;
         display: none;
     }
