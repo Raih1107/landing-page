@@ -18,4 +18,5 @@ function show(){
 
 function close(){
     mainMenu.style.top = '-100%';
+    mainMenu.style.display = 'none';
 }
